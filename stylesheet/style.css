@@ -84,3 +84,14 @@
     margin-left: 50px;
     margin-top: 40px;
 }
+.fundo-section4{
+    background-image: url('../images/fundosliderplan.jpg');
+    height: 698px;
+}
+.itens-section4{
+    margin-top: 100px;
+}
+#butao-section4{
+    padding: 10px 35px;
+    border-radius: 10px;
+}
