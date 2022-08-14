@@ -11,3 +11,14 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.texto-branco{
+    color: white!important;
+}
+#texto-slider{
+    margin-left: 60%;
+    margin-top: 10%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#botao-slider{
+    margin-left: 60%;
+}

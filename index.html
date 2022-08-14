@@ -13,34 +13,46 @@
   </head>
   <body>
     <header>
-      <nav class="navbar fixed-top navbar-expand-lg navbar-light px-2" id="nav">
-          <a href="#" class="navbar-brand">
-            <img src="images/nomelogo.svg" width="89.4" height="55.58" class="img-fluid" id="logo"/> 
+      <nav class="navbar navbar-expand-lg navbar-light" id="nav">
+          <a href="#">
+              <img src="/images/nomelogo.svg" width="89.4" height="55.58" class="img-fluid" id="logo">
           </a>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" 
-          aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
-            <ul class="navbar-nav ml-auto float-right">
-              <li class="nav-item">
-                <button class="btn btn-light mr-3">Nossos cursos</button>
-                <button class="btn btn-light mr-3">Sobre nós</button>
-                <button class="btn btn-light mr-3">Trilha</button>
-                <button class="btn btn-light mr-3">Depoimentos</button>
-                <button><img src="images/carrinho.svg" width="34" height="32" class= "img-fluid"></button>
-                <button><img src="images/livro.svg" width="34" height="32" class="img-fluid"></button>
-                <button><img src="images/profile.svg" width="34" height="32" class="img-fluid"></button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+              <li class="nav-item active">
+                  <a class="nav-link texto-branco" href="#">Nossos cursos</a>
+                </li>
+              <li class="nav-item active">
+                <a class="nav-link texto-branco" href="#">Sobre nós</a>
+              </li>
+              <li class="nav-item active">
+                <a class="nav-link texto-branco" href="#">Trilha</a>
+              </li>
+              <li class="nav-item active">
+                  <a class="nav-link texto-branco" href="#">Depoimentos</a>
+                </li>
+            </ul>
+            <ul class="navbar-nav my-2 my-lg-0">
+              <li class="nav-item active">
+                  <img src="/images/carrinho.svg" class="img-fluid">
+              </li>
+              <li class="nav-item active">
+                  <img src="/images/livro.svg" class="img-fluid">               <!--Essas 3 imagens tão incompletas-->
+              </li>
+              <li class="nav-item active">
+                  <img src="/images/profile.svg" class="img-fluid">
               </li>
             </ul>
           </div>
       </nav>
   </header>
 
-  <section class="my-5 teste">
+  <section class="teste">
     <div class="container pt-5">
       <div class="row justify-content-center">
         <div class="col-lg-7 text-center">
+          <p class="texto-branco" id="texto-slider"><b>Mudando a forma que você aprende coisas banais</b></p>
+          <button type="button" class="btn btn-danger" id="botao-slider">Comece agora!</button>
         </div>
       </div>
     </div>
