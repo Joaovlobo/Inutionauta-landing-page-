@@ -1,0 +1,13 @@
+#logo{
+    width: 301.61px;
+    height: 45.15px;
+}
+#nav{
+    background-color: #050939;
+}
+.teste{
+    background-image: url("../images/fundofurniture.jpg");
+    height: 698px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
