@@ -41,6 +41,7 @@
     min-height: 500px;
     width: 700px;
     max-height: 432px;
+    border-radius: 10px;
 }
 .carousel-inner {
     /* height: 800px;
@@ -69,3 +70,17 @@
     margin-top: 100px;
     font-size: 25px;
  }
+.fundo-section3{
+    background: linear-gradient(179.84deg, #E0004D -65.31%, #050939 99.86%);
+    height: 698px;
+}
+#videofut{
+    margin-left: 25%;
+    margin-top: 10%;
+}
+.patro{
+    width: 144px;
+    height: 69px;
+    margin-left: 50px;
+    margin-top: 40px;
+}
