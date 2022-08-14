@@ -38,10 +38,10 @@
 .carrossel-itens {
     display: block;
     margin: 50px auto;
-    width: 768px;
-    height: 512px;
+    min-height: 500px;
+    width: 700px;
+    max-height: 432px;
 }
-
 .carousel-inner {
     /* height: 800px;
     width: 800px; */
@@ -58,3 +58,14 @@
     color: darkgreen;
     font-weight: bold;
 }
+.fundo-section2{
+    background-image: url("../images/fundoslider2.jpg");
+    height: 675px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#texto-slider2{
+    margin-left: 520px;
+    margin-top: 100px;
+    font-size: 25px;
+ }
