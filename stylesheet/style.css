@@ -127,21 +127,22 @@
 
 
 .meio img {
-    width: 75px;
-    margin-bottom: 20px;
+    width: 110px;
+    margin-top: -5px;
+    margin-bottom: 18px;
     margin-left: 200px;
-    margin-top: 18px;
 }
 
 .meio p {
+    margin-top: 5px;
     margin-left: 120px;
 }
 
 .fim img {
-    width: 75px;
-    margin-top: 18px;
+    width: 90px;
+    margin-top: -10px;
     margin-left: 190px;
-    margin-bottom: 20px;
+    margin-bottom: 27px;
 }
 
 .btn-trilha {
@@ -167,6 +168,17 @@
     background: rgba(224, 0, 77, 0.9);
     box-shadow: 5px 10px 15px rgba(0, 0, 0, 0.45);
     border-radius: 15px;
+}
+.fundo-sectionmob{
+    background-image: url("../images/mobile.png");
+    height: 598px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#texto-mobile{
+    margin-left: 100px;
+    margin-top: 100px;
+    font-size: 25px; 
 }
 .fundo-section2{
     background-image: url("../images/fundoslider2.jpg");
