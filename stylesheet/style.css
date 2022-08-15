@@ -61,6 +61,113 @@
     color: darkgreen;
     font-weight: bold;
 }
+.trilha {
+    background: linear-gradient(179.84deg, #E0004D -65.31%, #050939 99.86%);
+    min-height: 450px;   
+    min-width: fit-content;
+}
+
+.container-trilha {
+   padding-top: 40px;
+}
+
+.trilha-conteudo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: -10px;
+}
+
+.trilha-titulo {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 38px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FFFFFF;
+    margin-bottom: 80px;
+}
+
+.trilha-conteudo p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 900;
+    line-height: 25px;
+    letter-spacing: 0em;
+    color: #FFFFFF;
+    margin-left: 70px;
+}
+
+
+.comeco {
+    margin:  0 auto;
+}
+
+.meio {
+    margin: 0 auto;
+}
+
+.fim {
+    margin: auto;
+}
+
+.comeco img {
+    width: 75px;
+    margin-bottom: 17px;
+    margin-left: 140px;
+}
+
+
+.meio img {
+    width: 75px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    margin-top: 18px;
+}
+
+.meio p {
+    margin-left: 120px;
+}
+
+.fim img {
+    width: 75px;
+    margin-top: 18px;
+    margin-left: 190px;
+    margin-bottom: 20px;
+}
+
+.btn-trilha {
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 31px;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    gap: 10px;
+    width: 217px;
+    height: 60px;
+    margin:  40px auto;
+
+    background: rgba(224, 0, 77, 0.9);
+    box-shadow: 5px 10px 15px rgba(0, 0, 0, 0.45);
+    border-radius: 15px;
+}
 .fundo-section2{
     background-image: url("../images/fundoslider2.jpg");
     height: 675px;
