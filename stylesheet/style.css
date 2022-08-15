@@ -219,3 +219,12 @@
 .bg-degrade{
     background: linear-gradient(179.84deg, #E0004D -65.31%, #050939 99.86%);
 }
+.depoimentos{ 
+    height: 250px; 
+} 
+.dab{ 
+    margin-top: 180px;
+}
+.bg-footer{
+    background-color: #050939;
+}
