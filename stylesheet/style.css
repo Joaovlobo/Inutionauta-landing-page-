@@ -166,11 +166,12 @@
     box-shadow: 5px 10px 15px rgba(0, 0, 0, 0.45);
     border-radius: 15px;
 }
-.fundo-sectionmob{
-    background-image: url("../images/mobile.png");
-    height: 598px;
-    background-repeat: no-repeat;
-    background-size: cover;
+.fundo-sectionmob{ 
+    background-image: url("../images/mobile.png"); 
+    height: 598px; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-position:center center; 
 }
 #texto-mobile{
     margin-left: 100px;
@@ -202,9 +203,12 @@
     margin-left: 50px;
     margin-top: 40px;
 }
-.fundo-section4{
-    background-image: url('../images/fundosliderplan.jpg');
-    height: 698px;
+.fundo-section4{ 
+    background-image: url('../images/fundosliderplan.jpg'); 
+    height: 698px; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-position: center center; 
 }
 .itens-section4{
     margin-top: 100px;
