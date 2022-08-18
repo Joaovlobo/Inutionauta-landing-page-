@@ -10,8 +10,8 @@
     background-color: #ff0000!important;
 }
 .fundo-section{
-    background-image: url("../images/fundofurniture.jpg");
-    height: 520px;
+    background-image: url("../images/astronautadesenho.jpg");
+    height: 700px;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -149,7 +149,7 @@
     font-size: 25px; 
 }
 .fundo-section2{
-    background-image: url("../images/fundoslider2.jpg");
+    background-image: url("../images/colocandorosaastronauta.jpg");
     height: 675px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -174,8 +174,8 @@
     margin-top: 40px;
 }
 .fundo-section4{ 
-    background-image: url('../images/fundosliderplan.jpg'); 
-    height: 698px; 
+    background-image: url('../images/3astronautasjoke.jpg'); 
+    height: 650px; 
     background-repeat: no-repeat; 
     background-size: cover; 
     background-position: center center; 
