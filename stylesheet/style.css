@@ -17,6 +17,7 @@
 }
 .texto-branco{
     color: white!important;
+    text-shadow: 2px 2px 5px #050939;
 }
 #texto-slider{
    /* margin-left: 60%;
