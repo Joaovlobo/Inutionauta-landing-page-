@@ -18,4 +18,4 @@ A Equipe Rocket é formada pelos seguintes membros:
 •João Vitor Freitas Lobo<br>
 •Jennifer Gadelha Barbosa de Menezes<br>
 
-<p><a href= https://inutionauta.netlify.app>Link do site Inutionalta<p>
+<p><a href= https://inutionauta.netlify.app>Link do site Inutionauta<p>
