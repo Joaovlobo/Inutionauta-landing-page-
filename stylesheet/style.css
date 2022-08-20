@@ -2,6 +2,9 @@
     width: 301.61px;
     height: 45.15px;
 }
+.nomelogo{
+    margin-right: 10px;
+}
 .back-azul{
     background-color: #050939;
 }
@@ -29,22 +32,25 @@
     text-align: right;
 }
 
-.trilha {
-    background: linear-gradient(179.84deg, #E0004D -65.31%, #050939 99.86%);
-    min-height: 450px;   
-    min-width: fit-content;
-}
-
-.container-trilha {
-   padding-top: 40px;
-}
-
-.trilha-conteudo {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin: 0 auto;
-    margin-top: -10px;
+.trilha { 
+    background:#050939; 
+    min-height: 320px;    
+    min-width: fit-content; 
+} 
+ 
+.container-trilha { 
+   padding-top: 35px; 
+   padding-right: 40px; 
+   padding-left: 25px; 
+} 
+ 
+.trilha-conteudo { 
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: center; 
+    margin: 0 auto; 
+    margin-top: -10px; 
+    text-align: justify-all; 
 }
 
 .trilha-titulo { 
