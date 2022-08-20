@@ -10,7 +10,7 @@ Features
 <br>•Trilha espacial<br>
 <br>•Sessão com vídeo no Youtube<br>
 <br>•Logos de clientes/parceiros<br>
-<br>•Despoimentos agrupados em carrossel</p>
+<br>•Depoimentos agrupados em carrossel</p>
 
 A Equipe Rocket é formada pelos seguintes membros:
 <p>Guardião: Abner Ferreira<br>
